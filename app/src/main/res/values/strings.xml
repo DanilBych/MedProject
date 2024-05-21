@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="add">Add</string>
+    <string name="my_notes">My notes</string>
+    <string name="input_text">Input text</string>
+    <string name="sort">Input text to sort</string>
+    <string name="save">Save</string>
+    <string name="started_update">Update is started</string>
+    <string name="input_note">Input note</string>
+</resources>
